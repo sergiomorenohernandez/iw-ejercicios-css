@@ -32,4 +32,4 @@ Partiendo del código HTML dado, crea una página web como la de la imagen  que 
 
 El resultado final deberá ser como el siguiente:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Resultado final")
+![alt text](https://github.com/jvadillo/iw-ejercicios-css/blob/master/01/resultado.png "Resultado final")
